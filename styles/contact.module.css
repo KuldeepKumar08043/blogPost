@@ -1,0 +1,33 @@
+/* pages/contact.module.css */
+
+.container {
+   display: flex;
+   justify-content: center;
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .formContainer {
+    margin-top: 20px;
+  }
+  
+  .formControl {
+    margin-bottom: 15px;
+  }
+  
+  .submitBtn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  

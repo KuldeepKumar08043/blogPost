@@ -1,0 +1,23 @@
+/* pages/about.module.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .paragraph {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
